@@ -1,0 +1,41 @@
+Control the appearance of elements on your web page
+
+Every web page is a collection of several individual elements which are called objects like an image, a link etc.
+
+JavaScript is capable of controlling the appearance of many objects. For example, you can open new pages in customized windows where you can specify their size, 
+determine whether they have scroll bars or not etc.
+
+JavaScript responds user actions on your web pages
+
+JavaScript can control objects on web pages in response to various actions taken by the user which is called event. For example display a dialog box when a user 
+clicks on a button, opening a new page, mouse over on a link to change the appearance of the link or control the background color of your web pages.
+
+Display various date time format
+
+JavaScript has the ability to retrieve the date and time of your computer's clock and it is enabled to display various formatting of date-time through its internal date object.
+
+Perform calculations
+
+JavaScript can perform a wide variety of mathematical calculations. It has a library of all the mathematical constants and functions needed. 
+These functions can be applied in different ways, for example, an online financial transaction where JavaScript can be used to calculate subtotal, total etc, 
+or an online calculator or creating games and interactive simulations with the advance math functions such as sine and cosine.
+
+Validate forms data
+
+JavaScript can be used to validate form data including names, addresses, URL, email addresses, phone numbers, zip codes etc. in html forms before sending the data to a server. 
+If you want to validate the said data in server side you have to wait while the information is sent up to the server for checking, using JavaScript you can detect the error and 
+prompt the user immediately.
+
+Create Cookies
+
+A cookie is a mechanism in a web browser where a simple text sent to the visitors' computer. As it is a piece of text, cookies are not executable. JavaScript can store 
+information from this piece of text on visitor's computer and reuse it automatically next time the user visits the same page.
+
+Detect the visitor's browser
+
+Sometimes it is difficult to create pages that are displayed identically on different browsers or even operating systems. JavaScript can detect the visitor's browser and 
+load the appropriate page for that specific browser.
+
+Dynamic HTML
+
+Dynamic HTML, or DHTML, is a collection of technologies used together to make interactive and animated website by using a combination of JavaScript, HTML, DOM (Document object module) and CSS
